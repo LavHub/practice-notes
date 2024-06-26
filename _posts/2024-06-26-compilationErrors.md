@@ -4,7 +4,7 @@ date: 2024-06-26
 categories:
 ---
 
-## Code (Example: 1)
+### Code (Example: 1)
 ```C
 #include <cs50.h>
 #include <stdio.h>
@@ -17,7 +17,7 @@ int main(void)
 }
 ```
 
-## Error Generated (Example: 1)
+### Error Generated (Example: 1)
 hello2.c:7:45: error: expected ';' after expression
 
 ## Code (Example: 2)

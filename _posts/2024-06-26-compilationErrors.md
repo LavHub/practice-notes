@@ -25,7 +25,7 @@ hello2.c:7:45: error: expected ';' after expression
 
 ## Example 2
 
-## Code 
+### Code 
 ```C
 #include <cs50.h>
 #include <stdio.h>
@@ -38,6 +38,6 @@ int main(void)
 }
 ```
 
-## Error Generated 
+### Error Generated 
 error: missing terminating '"' character [-Werror,-Winvalid-pp-token]
     printf("Hello, %s\n, name);

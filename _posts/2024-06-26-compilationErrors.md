@@ -4,7 +4,9 @@ date: 2024-06-26
 categories:
 ---
 
-### Code (Example: 1)
+## Example 1
+
+### Code 
 ```C
 #include <cs50.h>
 #include <stdio.h>
@@ -17,10 +19,13 @@ int main(void)
 }
 ```
 
-### Error Generated (Example: 1)
+### Error Generated 
 hello2.c:7:45: error: expected ';' after expression
 
-## Code (Example: 2)
+
+## Example 2
+
+## Code 
 ```C
 #include <cs50.h>
 #include <stdio.h>
@@ -33,6 +38,6 @@ int main(void)
 }
 ```
 
-## Error Generated (Example: 2)
+## Error Generated 
 error: missing terminating '"' character [-Werror,-Winvalid-pp-token]
     printf("Hello, %s\n, name);

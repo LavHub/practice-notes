@@ -3,6 +3,7 @@ title: "Compilation Errors"
 date: 2024-06-26
 categories:
 ---
+### **This is a list of different errors**
 
 ## Example 1
 

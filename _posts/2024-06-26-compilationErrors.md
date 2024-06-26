@@ -20,9 +20,3 @@ int main(void)
 ## Error Generated
 
 hello2.c:7:45: error: expected ';' after expression
-    name = get_string("What's your name?\n")
-                                            ^
-                                            ;
-1 error generated.
-make: *** [<builtin>: hello2] Error 1
-

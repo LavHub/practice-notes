@@ -3,6 +3,7 @@ title: "Number Programs"
 date: 2024-07-01
 categories:
 ---
+### These are coding practice problems involving inputs, outputs, while loops, and if else statements
 
 ## Positive or Negative
 ```C
@@ -69,6 +70,7 @@ int main(void)
 {
     int num;
     int evenNum;
+    printf("This code prints N number of even numbers\n");
     num = get_int("Enter number: ");
     evenNum = 2;
     while ( num > 0){
